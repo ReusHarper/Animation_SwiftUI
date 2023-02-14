@@ -1,10 +1,4 @@
-//
-//  AnimationApp.swift
-//  Animation
-//
-//  Created by ReusHarper on 13/02/23.
-//
-
+// Libraries
 import SwiftUI
 
 @main
